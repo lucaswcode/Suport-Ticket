@@ -1,0 +1,43 @@
+{
+  "tickets": [
+    {
+      "id": "bbfb7905-36ba-4a7d-b7bd-b4ec3e5e988b",
+      "equipment": "Computador",
+      "description": "Não quer ligar",
+      "user_name": "Pedro",
+      "status": "closed",
+      "created_at": "2025-04-14T16:07:40.411Z",
+      "updated_at": "2025-04-14T16:07:40.411Z",
+      "update_at": "2025-04-15T13:05:24.977Z",
+      "solution": "Equipamento trocado."
+    },
+    {
+      "id": "e2a50c18-67a7-477b-bb14-15a5c7039ba9",
+      "equipment": "Computador",
+      "description": "Não quer ligar",
+      "user_name": "Pedro",
+      "status": "closed",
+      "created_at": "2025-04-14T16:07:46.940Z",
+      "updated_at": "2025-04-14T16:07:46.940Z"
+    },
+    {
+      "id": "7a2802c5-64f5-4362-aa51-5cdbb225fa10",
+      "equipment": "Monitor",
+      "description": "Não sei o que houve",
+      "user_name": "Augusto",
+      "status": "open",
+      "created_at": "2025-04-15T13:15:21.358Z",
+      "updated_at": "2025-04-15T13:15:21.358Z"
+    },
+    {
+      "id": "2db0fbe9-ef50-4f76-8912-70a5280d9a54",
+      "equipment": "Computador",
+      "description": "Tela Zul",
+      "user_name": "Safira",
+      "status": "closed",
+      "created_at": "2025-04-15T13:24:56.426Z",
+      "updated_at": "2025-04-15T13:24:56.426Z",
+      "solution": "Placa mãe trocada."
+    }
+  ]
+}
